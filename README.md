@@ -6,7 +6,7 @@ As a Full Stack Developer in training, I have a strong interest in building dyna
 I am currently expanding my skills in Full Stack Development, focusing on advanced JavaScript concepts, React.js for frontend development, and Node.js for backend development. I'm also deepening my knowledge in database management with MongoDB and SQL.
 
 💞️ I’m looking to collaborate on
-I am looking to collaborate on projects that involve building web applications using React.js, developing RESTful APIs with Node.js and Express.js, and implementing scalable database solutions. I am also open to working on projects that utilize Agile methodologies and TDD practices.
+on projects that involve building web applications using React.js, developing RESTful APIs with Node.js and Express.js, and implementing scalable database solutions. I am also open to working on projects that utilize Agile methodologies and TDD practices.
 
 📫 How to reach me
 You can reach me via email at ahmed.wajih.ben.smida@gmail.com or connect with me on LinkedIn at https://www.linkedin.com/in/ahmed-wajih-ben-smida.
